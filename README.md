@@ -18,21 +18,15 @@ To install the chart, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/PrabhatNew/Kubernetes_latest.git
+git clone https://github.com/PrabhatNew/hashicorp_vault.git
 ```
 
-2. Change into the chart's directory:
-
-```bash
-cd Kubernetes_latest
-```
-
-3. Change the file permession:
+2. Change the file permession:
 
 ```bash
 sudo chmod -R 777 hasicorp_vault
 ```
-4. Run the script:
+3. Run the script:
 ```bash
 cd hasicorp_vault
 ```
